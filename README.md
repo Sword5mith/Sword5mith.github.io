@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[index](index.html)
 
 You can use the [editor on GitHub](https://github.com/Sword5mith/Sword5mith.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
